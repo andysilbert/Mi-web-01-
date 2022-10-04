@@ -1,0 +1,252 @@
+*{
+    padding:0;
+    margin:0;
+    
+}
+
+header{
+    background-color: white;
+    
+
+}
+header.logo{
+    margin:0;
+    padding: 25px 30px;
+}
+
+header.conteiner{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+
+}
+
+header.nav {
+    display:flex;
+    flex-direction: column;
+    text-align: center;
+    
+}
+h1{
+    text-align: center;
+    background-color: white;
+    color:maroon;
+    padding: 5px;
+}
+
+.practice_areas {
+    background-color: antiquewhite;
+    background-color: black;
+    padding: auto;
+
+}
+
+.texto_areas {
+    font-style: inherit;
+    font-size: medium;
+    color: black;
+
+}
+.foto1{
+    background-color: white;
+    display:flex;
+    justify-content: top;
+
+
+    
+
+
+}
+
+.foto1 img{
+    align-items: top;
+    justify-content: left;
+    
+}
+.civil img{
+    align-items: center;
+    justify-content: center;
+}
+
+.tarjeta {
+    border-radius: 15px;
+    border: 2px solid black;
+    width: 500px;
+    height: 200px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-bottom: 10%;
+    margin: 87px auto 40px;
+    
+
+
+}
+
+
+
+.tarjeta_info {
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+
+
+}
+
+nav ul {
+    background-color: black;
+    width: 100%;
+    list-style-type: none;
+    text-align: center;
+}
+
+nav li {
+    display: inline-flex;
+}
+nav a {
+    text-decoration: none;
+    color: white;
+    padding: 10px;
+    width: 150px;
+
+}
+
+
+nav li:hover {
+    background-color: maroon;
+}
+
+img{
+    width: 200px;
+    height: 150px;
+
+}
+
+h2{
+    text-align: center;
+    background-color: white;
+    color:maroon;
+    margin-top: 10%;
+    display: flex;
+    justify-content: center;
+    
+    
+}
+
+
+
+h3{
+
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+    display: flex;
+    background-color: white;
+    color:black
+    
+
+
+    
+
+    
+}
+
+.padre{
+    background-color: white;
+    width:800px;
+    height: 250px;
+    margin: 2rem auto;
+    text-align: center;
+
+}
+
+.padre p{
+    padding-top: 75px;
+    align-content: auto;
+    font-size: 2.0rem;
+    
+}
+
+.texto {
+    align-content: center;
+    font-size: 12px;
+}
+
+.h4{text-align: center;
+    justify-content: right;
+    align-items: right;
+    display: flex;
+    background-color: white;
+    color:black;
+
+}
+.footer-container{
+
+    background-color: white;
+    color: black;
+    padding: 10px;
+    margin: 200px;
+    
+}
+.footer {
+    width: 50%;
+    height: 20vh;
+    background-color: white;
+    display:flex;
+    justify-content: right;
+    flex-wrap: wrap;
+     margin: 0 auto;
+}
+    
+.ubicacion_mapa{
+    justify-content: center;
+    width: 50%;
+
+}
+     
+.ubicacion_titulo{
+    text-align: center;
+    background-color: black;
+    color: white;
+    padding: 5px;
+    font-style:inherit;
+    font-size: large;
+
+
+}
+
+.Redes_titulos {
+    text-align: center;
+   background-color: white;
+    padding: 15px;
+    text-align: center;
+   
+}
+
+.redes_contenedor{
+display: flex;
+justify-content: space-around;
+}
+
+
+.redes_contenedor i{
+    color:black;
+    font-size: 2rem;
+    
+}
+    
+
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
